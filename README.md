@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @walidharb2429
 - 👀 I’m interested in chemistry and python
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on molecular dynamic and AI
+- 📫 How to reach me walidharb@gmail.com
 
 <!---
 walidharb2429/walidharb2429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
